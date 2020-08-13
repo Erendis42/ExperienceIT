@@ -1,5 +1,5 @@
 # ExperienceIT
-ExperienceIT entry level project for oop
+ExperienceIT entry level project for OOP
 
 The task was to create a program which calculates the fewest notes and coins possible to represent a random amount of money in a random currency, write them to the console, result first, list afterwards, then create a file with a username read from the console and print the amount, the name of the currency and the time spent calculating them into it. (HUF and EUR was mandatory, I also added USD as an "extra mile").
 
